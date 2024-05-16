@@ -1,4 +1,4 @@
-Illustrative reproducer for ...
+Illustrative reproducer for https://github.com/nedbat/coveragepy/issues/1784
 
 How to reproduce
 ```shell
